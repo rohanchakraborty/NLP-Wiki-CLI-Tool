@@ -7,3 +7,4 @@ ipython
 click
 fire
 textblob
+pandas
